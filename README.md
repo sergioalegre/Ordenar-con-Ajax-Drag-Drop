@@ -132,16 +132,16 @@ LinkedIn: https://www.linkedin.com/in/sergioalegre
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/sergioalegre/Best-README-Template.svg?style=flat-square
-[contributors-url]: https://github.com/sergioalegre/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/sergioalegre/Best-README-Template.svg?style=flat-square
-[forks-url]: https://github.com/sergioalegre/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/sergioalegre/Best-README-Template.svg?style=flat-square
-[stars-url]: https://github.com/sergioalegre/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/sergioalegre/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/sergioalegre/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/sergioalegre/Best-README-Template.svg?style=flat-square
-[license-url]: https://github.com/sergioalegre/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/sergioalegre/Ordenar-con-Ajax-Drag-Drop.svg?style=flat-square
+[contributors-url]: https://github.com/sergioalegre/Ordenar-con-Ajax-Drag-Drop/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/sergioalegre/Ordenar-con-Ajax-Drag-Drop.svg?style=flat-square
+[forks-url]: https://github.com/sergioalegre/Ordenar-con-Ajax-Drag-Drop/network/members
+[stars-shield]: https://img.shields.io/github/stars/sergioalegre/Ordenar-con-Ajax-Drag-Drop.svg?style=flat-square
+[stars-url]: https://github.com/sergioalegre/Ordenar-con-Ajax-Drag-Drop/stargazers
+[issues-shield]: https://img.shields.io/github/issues/sergioalegre/Ordenar-con-Ajax-Drag-Drop.svg?style=flat-square
+[issues-url]: https://github.com/sergioalegre/Ordenar-con-Ajax-Drag-Drop/issues
+[license-shield]: https://img.shields.io/github/license/sergioalegre/Ordenar-con-Ajax-Drag-Drop.svg?style=flat-square
+[license-url]: https://github.com/sergioalegre/Ordenar-con-Ajax-Drag-Drop/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/sergioalegre
 [product-screenshot]: images/screenshot.png
