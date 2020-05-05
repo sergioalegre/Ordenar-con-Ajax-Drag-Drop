@@ -74,6 +74,6 @@
 	    <div class="msg"></div>
 	</div>
 	<br><br>
-	<div class="center">Sergio Alegre - <a href="https://twitter.com/naarean">@naarean</a> - <a href="https://github.com/naarean">github.com/naarean</a></div>
+	<div class="center">Sergio Alegre - <a href="https://twitter.com/naarean">@naarean</a> - <a href="https://github.com/sergioalegre">github.com/sergioalegre</a></div>
 </body>
 </html>
