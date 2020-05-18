@@ -7,7 +7,7 @@ REEMPLAZAR: Ordenar-con-Ajax-Drag-Drop, TITULO, DESCRIPCION, DESCRIPCION2, DEMO,
 <br />
 <p align="center">
   <a href="https://github.com/sergioalegre/Ordenar-con-Ajax-Drag-Drop">
-    <img src="http://naarean.es/logo.JPG" alt="Logo" width="80" height="80">
+    <img src="http://sergioalegre.es/logo.JPG" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center"><!-- TITULO -->Ordenar con AJAX Drag&Drop</h3>
@@ -18,7 +18,7 @@ REEMPLAZAR: Ordenar-con-Ajax-Drag-Drop, TITULO, DESCRIPCION, DESCRIPCION2, DEMO,
     <a href="https://github.com/sergioalegre/Ordenar-con-Ajax-Drag-Drop"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <!-- DEMO --><a href="http://naarean.es/Programacion/_OrdenarConAJAX/">View Demo</a>
+    <!-- DEMO --><a href="http://sergioalegre.es/Programacion/_OrdenarConAJAX/">View Demo</a>
     ·
     <a href="https://github.com/sergioalegre/Ordenar-con-Ajax-Drag-Drop/issues">Report Bug</a>
     ·
@@ -30,11 +30,11 @@ REEMPLAZAR: Ordenar-con-Ajax-Drag-Drop, TITULO, DESCRIPCION, DESCRIPCION2, DEMO,
 <!-- ABOUT THE PROJECT -->
 ## About The Project & Demo link
 <!-- DESCRIPCION2 --> <!-- DEMO -->
-Ordenar con AJAX Drag&Drop para backend en MySQL.  <a href="http://naarean.es/Programacion/_OrdenarConAJAX/">Visita la demo aqui</a>
+Ordenar con AJAX Drag&Drop para backend en MySQL.  <a href="http://sergioalegre.es/Programacion/_OrdenarConAJAX/">Visita la demo aqui</a>
 <br><br>
 <p align="center">
-  <a href="http://naarean.es/Programacion/_OrdenarConAJAX/">
-    <img src="http://naarean.es/Programacion/_OrdenarConAJAX/captura.PNG" alt="Logo" width="360" height="">
+  <a href="http://sergioalegre.es/Programacion/_OrdenarConAJAX/">
+    <img src="http://sergioalegre.es/Programacion/_OrdenarConAJAX/captura.PNG" alt="Logo" width="360" height="">
   </a>
 </p>
 
@@ -47,11 +47,11 @@ LinkedIn: https://www.linkedin.com/in/sergioalegre
 
 ### Built With
 <!-- TECNOLOGIAS -->
-* [PHP](PHP)
-* [AJAX](AJAX)
-* [JQUERY](JQUERY)
-* [MYSQL](MYSQL)
-* [Drag&Drop](Drag&Drop)
+* PHP
+* AJAX
+* JQUERY
+* MYSQL
+* Drag&Drop
 
 
 <!-- GETTING STARTED -->
@@ -92,13 +92,6 @@ Email: sergio.alegre.arribas EN gmail.com
 <br>
 LinkedIn: https://www.linkedin.com/in/sergioalegre
 
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/sergioalegre
