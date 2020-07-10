@@ -38,11 +38,13 @@ Ordenar con AJAX Drag&Drop para backend en MySQL.  <a href="http://sergioalegre.
   </a>
 </p>
 
-<!-- CONTACT -->
+
 ## Contact
 Email: sergio.alegre.arribas EN gmail.com
 <br>
 LinkedIn: https://www.linkedin.com/in/sergioalegre
+<br>
+Website: http://me.sergioalegre.es
 
 
 ### Built With
@@ -86,11 +88,6 @@ Contributions are what make the open source community such an amazing place to b
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<!-- CONTACT -->
-## Contact
-Email: sergio.alegre.arribas EN gmail.com
-<br>
-LinkedIn: https://www.linkedin.com/in/sergioalegre
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
